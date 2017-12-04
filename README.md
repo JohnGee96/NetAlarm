@@ -8,7 +8,7 @@ A network sniffer that reports instances of port scanning on hosting device and 
 
 ## Installation
 
-    git clone 
+    git clone https://github.com/JohnGee96/NetAlarm.git
     pip install scapy
 
 ## Usage
